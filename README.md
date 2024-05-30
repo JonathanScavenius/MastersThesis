@@ -2,14 +2,19 @@
 Code for the Masters Thesis entitled "Financed Informed Auto-Encoders" developed by FQL193 and FKG199
 
 The code is structured as follows:
+
 Preprocess.ipynb
   - module responsable for loading data, aswell as processing data for model training and testing.
+
 Research.ipynb
   - module responsable for creating yield curves from swaps and vice versa. (This module only works for numpy not torch)
+
 Mymodels.ipynb
   - module where all our models and the training functions of our models. 
+
 Main.ipynb
   - module for calling training functions of models, also here you choose hyperparameters.
+
 Postprocess.ipynb
   - module for postprocessing of data, loads a model a creates plots, loss averages etc.
 
