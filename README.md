@@ -1,5 +1,5 @@
 # Masters Thesis
-Code for the Masters Thesis entitled "Financed Informed Auto-Encoders" developed by FQL193 and FKG199
+Code for the Masters Thesis titled "Financed Informed Auto-Encoder Market Models" developed by FQL193 and FKG199
 
 The code is structured as follows:
 
