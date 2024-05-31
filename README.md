@@ -4,7 +4,7 @@ Code for the Masters Thesis titled "Financed Informed Auto-Encoder Market Models
 The code is structured as follows:
 
 Preprocess.ipynb
-  - module responsable for loading data, aswell as processing data for model training and testing.
+  - module responsable for loading data, as well as processing data for model training and testing.
 
 Research.ipynb
   - module responsable for creating yield curves from swaps and vice versa. (This module only works for numpy not torch)
@@ -16,7 +16,7 @@ Main.ipynb
   - module for calling training functions of models, also here you choose hyperparameters.
 
 Postprocess.ipynb
-  - module for postprocessing of data, loads a model a creates plots, loss averages etc.
+  - module for postprocessing of data, functionality for the loading of a model, creation of plots, loss averages etc.
 
 All the code is written in Python 3.9 and is orchestrated in notebooks, i.e. .ipynb files. There is dependecy between the notebooks described above. 
 The packages used are as follows:
